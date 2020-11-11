@@ -1,0 +1,4 @@
+ - Esta es una prueba para revisar los comando basicos de git y sus funcionalidades.
+- Esta es una primera modificacion para probar la fucnionalidad de git
+- Esta es una segunda modificacion antes de subir al staging area
+
