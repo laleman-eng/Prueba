@@ -1,5 +1,5 @@
 #  Introduccion
+Este es un  archivo de prueba
 #  Instalación
-#  #  Usando Lineas de Comandos
-## via Git
---- git clone  
+Se describen los pasos  para realizar la instalacion del  archivo
+
