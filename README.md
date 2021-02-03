@@ -14,7 +14,9 @@ Actualizar la rama master.
 Crear una rama.
 Hacer los cambios.
 Hacer un Pull Request.
-# información de Licencia
+# Documentación
+Sección para la guía de usuario va dirigida a los usuarios finales de la herramienta, guía de especificación funcional y técnica.  Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
+# Información de Licencia
 Permisos que se otorgan a terceros para reutilizar la herramienta
 #  Autores 
 Informacion del(o) desarrollador(es)
