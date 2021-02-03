@@ -1,6 +1,12 @@
 #  Presentacion del  proyecto
+Descripcion de l proyecto Alcance y funcionalidades
 #  Instrucciones de  configuración
+Paso  a paso del proceso de configuracion de parametros del proyecto
 # Instrucciones de  Instalación
+Instrucciones de instalación para reutilizar y configurar la herramienta digital. Esta sección está dirigida a desarrolladores. Se deben especificar:
+o	Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
+o	Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
+o	Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
 # Instrucciones para contribui
 # información de Licencia
 #  Informacion del Desarrollador
