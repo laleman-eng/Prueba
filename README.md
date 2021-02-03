@@ -4,7 +4,7 @@
 # Instrucciones para contribui
 # información de Licencia
 #  Informacion del Desarrollador
-# Bugs  
+# Errores
 # Solucion de problemas
 # Colaboradores
 # ChangeLog
