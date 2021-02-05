@@ -10,5 +10,5 @@ En esta sección puedes colocar un link a tus -release notes- en GitHub.Usamos S
 Realiza un listado de todas las personas que participaron en el proyecto y coloca un link a cada uno de sus perfiles
 # Licencias
 Si usas en tu proyecto alguna licencia es bueno especificar cual. Por ejemplo: El proyecto es open-source bajo licencia MIT.
-# Créd
+# Créditos
 En esta sección puedes colocar comentarios adicionales, dar agradecimientos o invitar a tus lectores a que visiten otros de tus proyectos.
